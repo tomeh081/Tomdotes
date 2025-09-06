@@ -5,7 +5,7 @@
 
 ### 💻 About Me
 - 📍 From the Philippines  
-- 🎓 Currently a **4th-year BSIT student majoring in Networks** 🌐  
+- 🎓 Currently a **4th-year BSIT student major in Networks** 🌐  
 - 🖥️ Learning **Java** and **Python** (with a lot of help from ChatGPT 🤝)  
 - ⌨️ Fun fact: I type **100+ WPM** — certified keyboard warrior ⚡  
 
