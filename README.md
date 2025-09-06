@@ -11,6 +11,9 @@
 - 🎮 Passionate **Dota 2 player** & **Kick.com streamer**  
 
 ---
+<p align="center">
+  <img src="https://i.imgur.com/your-custom-link.png" alt="Itachi reading manga-style panel" width="300"/>
+</p>
 
 ### 🚀 Quick Stats
 <p align="center">
