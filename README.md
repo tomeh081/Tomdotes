@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Tom Lemuel Hynson</h1>
-<h3 align="center">🇵🇭 4th-year BSIT Student | Networks Major | Lifelong Learner</h3>
+<h3 align="center">🇵🇭 4th-year BSIT Student | Networks Major </h3>
 
 ---
 
@@ -8,7 +8,6 @@
 - 🎓 Currently a **4th-year BSIT student majoring in Networks** 🌐  
 - 🖥️ Learning **Java** and **Python** (with a lot of help from ChatGPT 🤝)  
 - ⌨️ Fun fact: I type **100+ WPM** — certified keyboard warrior ⚡  
-- 🎮 Passionate **Dota 2 player** & **Kick.com streamer**  
 
 ---
 
