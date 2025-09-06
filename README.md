@@ -11,18 +11,6 @@
 - 🎮 Passionate **Dota 2 player** & **Kick.com streamer**  
 
 ---
-<p align="center">
-  <img src="https://i.imgur.com/your-custom-link.png" alt="Itachi reading manga-style panel" width="300"/>
-</p>
-
-### 🚀 Quick Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🎮 Fun Zone
 <p align="center">
